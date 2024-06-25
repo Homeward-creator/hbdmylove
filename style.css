@@ -280,6 +280,16 @@ body {
   font-weight: 300;
   font-style: normal;
 }
+.press-here-description {
+  text-align: center;
+  position: relative;
+  top: 6vmin;
+  border-radius: 50%;
+  font-size:2rem; 
+  font-family: "Kanit", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
 
 @keyframes open {
   100% {
